@@ -1,5 +1,5 @@
 # Web-Scrapping-using-R
-In this project we have scrapped the top richest 50 athletes data using R language.   
+In this project we have scrapped the top 50 richest athletes data using R language.   
 
 ## Overview
 We have used R language to do web scraping for top richest 50 athletes. We scrap the data from this [website](https://www.therichest.com/top-lists/top-100-richest-athletes/). We have installed some libraries first. These are:
